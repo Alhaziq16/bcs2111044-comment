@@ -1,0 +1,1 @@
+web: gunicorn comment_wan_muhammad_amir_al_haziq.wsgi --log-file -
